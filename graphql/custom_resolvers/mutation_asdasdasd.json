@@ -3,6 +3,6 @@
     "function_name": "seedTestData",
     "id": "5f3d982b2df1e4983b29ac1a",
     "input_type_format": "",
-    "on_type": "Mutation",
+    "on_type": "Query",
     "payload_type_format": ""
 }
