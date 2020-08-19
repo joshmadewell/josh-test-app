@@ -1,0 +1,44 @@
+{
+    "collection": "classrooms",
+    "database": "school-app",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "insert": true,
+            "delete": true
+        }
+    ],
+    "schema": {
+        "properties": {
+            "_id": {
+                "bsonType": "objectId"
+            },
+            "address": {
+                "bsonType": "objectId"
+            },
+            "best-student-id": {
+                "bsonType": "objectId"
+            },
+            "name": {
+                "bsonType": "string"
+            },
+            "students": {
+                "bsonType": "array",
+                "items": {
+                    "bsonType": "objectId"
+                }
+            },
+            "students_by_last_name": {
+                "bsonType": "array",
+                "items": {
+                    "bsonType": "string"
+                }
+            },
+            "teachersAssisant": {
+                "bsonType": "objectId"
+            }
+        },
+        "title": "classroom"
+    }
+}

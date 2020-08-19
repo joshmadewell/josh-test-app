@@ -1,0 +1,14 @@
+{
+    "name": "local-userpass",
+    "type": "local-userpass",
+    "config": {
+        "autoConfirm": false,
+        "confirmEmailSubject": "josh.madewell@gmail.com",
+        "emailConfirmationUrl": "https://localhost:9000",
+        "resetPasswordSubject": "https://localhost:9000",
+        "resetPasswordUrl": "https://localhost:9000",
+        "runConfirmationFunction": false,
+        "runResetFunction": ""
+    },
+    "disabled": false
+}

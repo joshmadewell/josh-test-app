@@ -1,0 +1,37 @@
+{
+    "collection": "students",
+    "database": "school-app",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "additional_fields": {}
+        }
+    ],
+    "schema": {
+        "properties": {
+            "_id": {
+                "bsonType": "objectId"
+            },
+            "address": {
+                "bsonType": "objectId"
+            },
+            "behavior": {
+                "bsonType": "string"
+            },
+            "email": {
+                "bsonType": "string"
+            },
+            "firstName": {
+                "bsonType": "string"
+            },
+            "last-name": {
+                "bsonType": "string"
+            }
+        },
+        "title": "student"
+    }
+}

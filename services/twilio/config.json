@@ -1,0 +1,11 @@
+{
+    "name": "twilio",
+    "type": "twilio",
+    "config": {
+        "sid": "asd"
+    },
+    "secret_config": {
+        "auth_token": "__mongodb_uri"
+    },
+    "version": 1
+}
