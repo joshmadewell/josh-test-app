@@ -1,6 +1,7 @@
 {
     "collection": "detentions",
     "database": "school-app",
+    "id": "5f3d982b2df1e4983b29ac0f",
     "relationships": {
         "classroom": {
             "ref": "#/relationship/mongodb/school-app/classrooms",
