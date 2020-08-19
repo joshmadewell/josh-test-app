@@ -2,9 +2,9 @@
     "field_name": "another",
     "function_name": "function0",
     "id": "5f0e078c6e2a7e7ca3a5055e",
-    "input_type": "string",
+    "input_type": "boolean",
     "input_type_format": "scalar",
     "on_type": "Query",
-    "payload_type": "string",
+    "payload_type": "boolean",
     "payload_type_format": "scalar-list"
 }
