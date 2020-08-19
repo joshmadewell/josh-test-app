@@ -2,8 +2,8 @@
     "field_name": "omgasdasd",
     "function_name": "function0",
     "id": "5f0ca5aa7c1c3c97168bcbaa",
-    "input_type": "ClassroomQueryInput",
-    "input_type_format": "generated",
+    "input_type": "string",
+    "input_type_format": "scalar",
     "on_type": "Query",
     "payload_type_format": ""
 }
